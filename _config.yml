@@ -2,12 +2,9 @@
 title: "Jekyll Resume Template"
 description: "A resume template for Jekyll and GitHub Pages sites."
 
-# Build settings
-markdown: kramdown
-sass:
-  sass_dir: _sass
+# Budkkdkdkdd
   style: compressed
-
+Modified to try and break it
 # Resume settings
 resume_avatar:                  "true"
 resume_name:                    "Surftocat"
